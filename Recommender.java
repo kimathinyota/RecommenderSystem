@@ -82,7 +82,7 @@ public class Recommender {
 
     public static final String DATABASE_URL = "jdbc:mysql://localhost:3306/socialdb";
     public static final String DATABASE_USERNAME = "root";
-    public static final String DATABASE_PASSWORD = "Ribbon99";
+    public static final String DATABASE_PASSWORD = "*******";
 
 
     public HashMap<Integer, Pair<List<ItemRecord>,DoubleValue>> userToRecords;
